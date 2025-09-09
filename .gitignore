@@ -1,0 +1,7 @@
+
+Fetched_Images/*
+!Fetched_Images/.gitkeep
+
+
+__pycache__/
+*.pyc
